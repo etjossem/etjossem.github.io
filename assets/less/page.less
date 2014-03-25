@@ -3,7 +3,6 @@ body {
 	padding: 0;
 	width: 100%;
 	background-color: @white;
-	border-top: 5px solid @black;
 	@media @medium {
 		.font-rem(20);
 	}
@@ -77,9 +76,10 @@ body {
 #nav-toggle { 
 	z-index: 9999;
 	display: block;
+	position: relative;
 	vertical-align: top;
 	margin: 0;
-	padding: 4px 20px;
+	padding: 9px 20px;
 	background-color: @black;
 	.rounded(0);
 	@media @medium {
