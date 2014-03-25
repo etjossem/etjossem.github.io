@@ -4,7 +4,7 @@ logo:             etjossem.png
 disqus_shortname: 
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://etjossem.github.io
+url:              /
 
 # Owner/author information
 owner:
