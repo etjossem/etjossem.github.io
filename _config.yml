@@ -4,13 +4,13 @@ logo:             etjossem.png
 disqus_shortname: 
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              http://www.tjossem.org
 
 # Owner/author information
 owner:
   name:           Eric Tjossem
   avatar:         it-is-i.jpg
-  email:          erictj@gmail.com
+  email:          eric@tjossem.org
   # Social networking links used in footer. Update and remove as you like.
   twitter:        etjossem
   facebook:       
