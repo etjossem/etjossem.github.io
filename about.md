@@ -3,7 +3,7 @@ layout: page
 permalink: /about/
 title: About Me
 tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
-modified: 2014-03-25
+date: 2014-03-25
 image:
   feature: sf.jpg
   credit: Paloma Velazquez
