@@ -3,7 +3,7 @@ layout: post
 title: "How To Try Dogecoins"
 description: "I don't always use cryptocurrencies. But when I do, such dogecoin."
 category: articles
-date: 2014-03-24
+modified: 2014-03-24
 ---
 
 Let's suppose you've found an [amazing local coffee stand that accepts Dogecoins](http://papa-november.com/) (DOGE), a digital currency based on a dog-related internet meme. Did you know that you can patronize this fine establishment today, without touching a single dollar bill? Trading USD for Dogecoins can be a bit confusing at first, but once you know how it works, it's much easier. In this post, we're going to buy some Dogecoins, using Bitcoin as an intermediary.
