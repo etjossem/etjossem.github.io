@@ -8,7 +8,7 @@ modified: 2014-03-27
 
 Let's say we we want a field for numeric quantity (e.g. the user specifies a number of items to order during checkout). We want it to look like this:
 
-![Numeric input keypad, on iOS](/images/numeric.png)
+![Numeric input keypad, on iOS](/images/numeric.png =320x480)
 
 The correct, semantic approach for bringing up the numeric keypad looks like this:
 
