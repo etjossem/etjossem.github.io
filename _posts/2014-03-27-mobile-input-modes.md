@@ -22,7 +22,7 @@ Here's the correct, semantic HTML for bringing up the numeric keypad:
 
 Why not just use `<input type="text">`, like we used to? Here's why we need each of the attributes above:
 
-**Type**: Technically, you *could* use `type="tel"`. It's an ugly hack, but it does reliably pull up a phone-style input on just about any mobile browser. That said, there are better and more semantic ways to get where we want to be. You want this to be `type="number"`, because it reflects the true purpose of the field.
+**Type**: Technically, you *could* use `type="tel"`. It's an ugly hack, but it does reliably pull up a phone-style input on just about any mobile browser. That said, there are better and more semantic ways to get what we want. In a perfect world, this should be `type="number"`, because it reflects the true purpose of the field.
 
 **Pattern**: Most of the common iPhone browsers will infer the correct keypad type from `pattern`, a regular expression to tell the browser which inputs should be treated as valid. In this case, we're using `pattern="[0-9]*"` to say "allow the user to give us anything starting with a digit, zero through nine."
 
