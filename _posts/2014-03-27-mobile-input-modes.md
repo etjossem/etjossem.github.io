@@ -6,11 +6,11 @@ category: articles
 modified: 2014-03-27
 ---
 
-Let's say we we want a field for numeric quantity (e.g. the user specifies a number of items to order during checkout). We want it to look like this:
+Let's say we we want a field for numeric quantity (e.g. the user specifies a number of items to order during checkout). We want it to show a big keypad on a mobile browser, like so:
 
 <img alt="Numeric input keypad, on iOS" src="/images/numeric.png" width="320">
 
-The correct, semantic approach for bringing up the numeric keypad looks like this:
+Here's the correct, semantic HTML for bringing up the numeric keypad:
 
 {% highlight html %}
   <input type="number" pattern="[0-9]*" inputmode="numeric">
