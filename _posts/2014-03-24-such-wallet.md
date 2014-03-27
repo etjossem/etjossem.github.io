@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How To Try Dogecoins"
+title: "Such Wallet: How to try Dogecoin"
 description: "I don't always use cryptocurrencies. But when I do, such dogecoin."
 category: articles
 modified: 2014-03-24
