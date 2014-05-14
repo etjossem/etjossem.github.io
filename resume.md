@@ -1,5 +1,5 @@
 # Eric Tjossem
-## Front End Developer
+## Front End Developer with a passion for beautiful design
 
 > [tjosse.me](http://www.tjosse.me)
 > [erictj@gmail.com](mailto:erictj@gmail.com)
@@ -7,9 +7,9 @@
 
 ------
 
-Hi, I'm Eric! I love writing responsive and semantic front end code, but I can also find my way around the rest of the stack. I'm always keeping an eye on new Javascript libraries as they come out, and I make full use of preprocessors (like Sass and Haml) in my workflow. I've found I have a strong preference for a well-organized web framework (e.g. Ruby on Rails or Django) and a small, highly collaborative team. 
+Hi, I'm Eric! I love writing responsive and semantic front end code, particularly within a clean MVC framework (think Ruby on Rails or Django). I'm always keeping an eye on new Javascript libraries as they come out, and I make full use of preprocessors (like Sass and Haml) in my workflow. I have a strong preference for small, highly collaborative teams and a development culture that values the user experience.
 
-But a web application can't survive on code alone; quality design matters too. I've recently started exploring UI design - building my own mockups and event flows for projects, and considering them from the perspective of the user. Bonus points to anyone who can give me that opportunity to grow.
+A web application can't survive on code alone; even as a developer, I find myself building my own mockups for projects and considering interactions carefully from the perspective of the user. I look forward to putting my understanding of event flow, typography, and usability to use in my future roles.
 
 Does this sound like a good fit? Email me at erictj@gmail.com or tweet @etjossem.
 
