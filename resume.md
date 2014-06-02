@@ -31,7 +31,12 @@ Does this sound like a good fit? Email me at erictj@gmail.com or tweet @etjossem
 
 ### Experience
 
-**Software Developer** at *Rinse* • __December 2013 to present__
+
+**Lead Front End Developer** at *Chariot* • __May 2014 to Present__
+  **Web Stack** Ruby on Rails, Sass, Haml, Javascript, MySQL.
+  **Mobile Stack** Backbone.js and Trigger.io.
+
+**Software Developer** at *Rinse* • __December 2013 to May 2014__
   Designed Backbone.js based mobile application in Trigger.io to improve on legacy app.
   Led rework of main site (www.rinse.com) frontend, under mobile responsive grid system.
   Created my own mockups for many new features, in collaboration with primary designer.
