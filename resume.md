@@ -17,13 +17,13 @@ Does this sound like a good fit? Email me at erictj@gmail.com or tweet @etjossem
 
 ### Technical
 
-1. HTML (ERB, Haml)
+1. HTML (.erb, .haml)
 1. CSS (Sass, Compass)
 1. JS (jQuery, Backbone, Angular)
 1. Ruby (Rails)
 1. Python (Django)
 1. PHP (CakePHP)
-1. Git
+1. Source Control (Git)
 1. DBA (MySQL, Postgres)
 1. PaaS (Heroku, AWS)
 
