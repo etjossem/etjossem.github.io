@@ -17,15 +17,21 @@ Does this sound like a good fit? Email me at erictj@gmail.com or tweet @etjossem
 
 ### Technical
 
-1. HTML (.erb, .haml)
+1. HTML
 1. CSS (Sass, Compass)
 1. JS (jQuery, Backbone, Angular)
 1. Ruby (Rails)
 1. Python (Django)
 1. PHP (CakePHP)
-1. Source Control (Git)
-1. DBA (MySQL, Postgres)
-1. PaaS (Heroku, AWS)
+
+### Preferred Tools
+
+1. Sass
+1. Haml
+1. Git
+1. Pixelmator
+1. Heroku
+1. AWS
 
 ------
 
@@ -33,6 +39,10 @@ Does this sound like a good fit? Email me at erictj@gmail.com or tweet @etjossem
 
 
 **Lead Front End Developer** at *Chariot* • __May 2014 to Present__
+  Led a small development team during transition to a federated API.
+  Developed a ticketing and check-in system for Chariot end-users.
+  Integrated with payment gatways like Braintree and Stripe.
+  Provided design assets
   **Web Stack**: Ruby on Rails, Sass, Haml, Javascript, MySQL.
   **Mobile Stack**: Angular.js and Cordova.
 
