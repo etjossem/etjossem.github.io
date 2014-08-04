@@ -15,25 +15,23 @@ Does this sound like a good fit? Email me at erictj@gmail.com or tweet @etjossem
 
 ------
 
-### Languages
+### Tech
 
 1. HTML / Haml
 1. CSS / Sass
 1. JS / Coffee
+
 1. Ruby
 1. Python
 1. PHP
 
-### Frameworks
-
 1. Rails
 1. Django
 1. CakePHP
+
 1. jQuery
 1. Angular.js
 1. Backbone.js
-
-### Tools
 
 1. Pixelmator
 1. Capistrano
