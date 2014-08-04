@@ -39,7 +39,7 @@ Does this sound like a good fit? Email me at erictj@gmail.com or tweet @etjossem
   Led a small development team during transition to a federated API.
   Developed a ticketing and check-in system for Chariot end-users.
   Integrated with payment gatways like Braintree and Stripe.
-  Provided design assets
+  Provided design assets for web and print.
   **Web Stack**: Ruby on Rails, Sass, Haml, Javascript, MySQL.
   **Mobile Stack**: Angular.js and Cordova.
 
