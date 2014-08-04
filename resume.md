@@ -26,9 +26,9 @@ Does this sound like a good fit? Email me at erictj@gmail.com or tweet @etjossem
 1. jQuery
 1. Angular.js
 1. Backbone.js
-1. Pixelmator
-1. Capistrano
-1. Git
+1. MySQL / Postgres
+1. Deployment
+1. Versioning (Git)
 
 ------
 
