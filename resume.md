@@ -17,15 +17,15 @@ Does this sound like a good fit? Email me at erictj@gmail.com or tweet @etjossem
 
 ### Technical
 
-1. HTML / Haml
-1. CSS / Sass / Compass
-1. Javascript / Backbone.js
-1. Ruby / Rails
-1. Python / Django
-1. PHP / CakePHP
+1. HTML (ERB, Haml)
+1. CSS (Sass, Compass)
+1. JS (jQuery, Backbone, Angular)
+1. Ruby (Rails)
+1. Python (Django)
+1. PHP (CakePHP)
 1. Git
-1. MySQL
-1. Heroku
+1. DBA (MySQL, Postgres)
+1. PaaS (Heroku, AWS)
 
 ------
 
@@ -34,7 +34,7 @@ Does this sound like a good fit? Email me at erictj@gmail.com or tweet @etjossem
 
 **Lead Front End Developer** at *Chariot* • __May 2014 to Present__
   **Web Stack**: Ruby on Rails, Sass, Haml, Javascript, MySQL.
-  **Mobile Stack**: Backbone.js and Trigger.io.
+  **Mobile Stack**: Angular.js and Cordova.
 
 **Software Developer** at *Rinse* • __December 2013 to May 2014__
   Designed Backbone.js based mobile application in Trigger.io to improve on legacy app.
