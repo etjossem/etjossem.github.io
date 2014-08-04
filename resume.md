@@ -20,19 +20,15 @@ Does this sound like a good fit? Email me at erictj@gmail.com or tweet @etjossem
 1. HTML / Haml
 1. CSS / Sass
 1. JS / Coffee
-
 1. Ruby
 1. Python
 1. PHP
-
 1. Rails
 1. Django
 1. CakePHP
-
 1. jQuery
 1. Angular.js
 1. Backbone.js
-
 1. Pixelmator
 1. Capistrano
 1. Git
