@@ -24,7 +24,7 @@ There are lots of really useful applications for this. You could use it to displ
 
 At [Chariot](https://www.chariotsf.com), we want to know which users tend to purchase with flex benefits debit cards. These cards are prepaid and refresh every month, and are valid for any transit-related expense. The percentage of transactions made with this type of card is a great data point for us, because it's a proxy for how often our riders are taking advantage of their pre-tax transit benefits. Knowing whether a card is flex benefits can also help us diagnose why a decline happened and provide better customer support. If a Chariot rider contacts us about a failed transaction, and the declined card was an MPX (employer-issued transit benefits), we'll give the customer a different set of advice than if they were trying to buy with a C (personal credit card).
 
-The only problem? The `product_type` codes are useless if you don't know what they mean! I didn't see a full list available online, so I called up a couple of major payment processors and asked them for a description of each product code. The following codes are flex benefits cards: J3, MPV, and MPX. This list will be updated if I see anything missing:
+The only problem? The `product_id` codes are useless if you don't know what they mean. I didn't see a full list available online, so I called up a couple of major payment processors and asked them for a description of each product code. The following codes are flex benefits cards: J3, MPV, and MPX. This list will be updated if I see anything missing:
 
 - **A** Visa Traditional
 - **AX1** American Express
