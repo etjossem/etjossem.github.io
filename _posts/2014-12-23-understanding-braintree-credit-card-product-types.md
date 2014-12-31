@@ -12,7 +12,7 @@ There are lots of really useful applications for this. You could use it to displ
 
 I didn't see a full list available online, so I called up a couple of major payment processors and asked them for a description of each product code. This list will be updated if I see anything missing:
 
-*- **A** Visa Traditional
+- **A** Visa Traditional
 - **AX1** American Express
 - **B** Visa Traditional Rewards
 - **C** Visa Signature
