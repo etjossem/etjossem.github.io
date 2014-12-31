@@ -6,9 +6,9 @@ category: articles
 modified: 2014-12-23
 ---
 
-Braintree (and many other payment gateways) return a column called `product_type` on every credit card object. It's a very specific representation of the kind of credit card the customer is using. For instance, you can compare the usage of classic Visa cards to Signature, Student, Fleet, etc. 
+Every time you retrieve a credit card object in Braintree, you'll get a value called `product_type`, which tends to be pretty cryptic and only a few characters long. Other payment gateways often return something similar. As of this post, `product_type` isn't described anywhere in the Braintree documentation, but it effectively tells you what credit product the customer is using (e.g. a classic Visa card vs. a Signature Preferred, Student Card, Corporate Fleet, etc.). 
 
-At [Chariot](https://www.chariotsf.com), we're interested in whether our users are using a flex benefits debit card (a.k.a. codes J3, MPV, and MPX), since we want to know how often our users are taking advantage of pre-tax transit benefits.
+There are lots of really useful applications for this. You could use it to display a visual representation of the card or figure out who your corporate buyers are. At [Chariot](https://www.chariotsf.com), we're interested in whether our users are using a flex benefits debit card (a.k.a. codes J3, MPV, and MPX), since we want to know how often our users are taking advantage of pre-tax transit benefits.
 
 I didn't see a full list available, so I called up a couple of major payment processors and asked them for a description of each product code. This list will be updated if I see anything missing:
 
