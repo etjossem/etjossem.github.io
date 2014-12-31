@@ -6,9 +6,21 @@ category: articles
 modified: 2014-12-23
 ---
 
-Every time you retrieve a credit card object in Braintree, you'll get a value called `product_type`, which tends to be pretty cryptic and only a few characters long. If you're using another payment gateway, you'll probably get something similar.
+Every time you retrieve a transaction in Braintree, you'll get a credit card object with the attribute `product_id`. It tends to be pretty cryptic and only a few characters long.
 
-As of this post, `product_type` isn't described anywhere in the Braintree documentation, but it effectively tells you which credit product the customer is using (e.g. a classic Visa card vs. a Signature Preferred, Student Card, Corporate Fleet, etc.). Each has a corresponding code.
+```
+credit_card: {
+  bin: "000000", 
+  card_type: "Visa", 
+  cardholder_name: "Chariot Customer", 
+  commercial: "No",
+  prepaid: "Yes",
+  debit: "Yes",
+  product_id: "MPX"
+}
+```
+
+As of this post, `product_id` isn't described anywhere in the Braintree documentation, but it effectively tells you which credit product the customer is using (e.g. a classic Visa card vs. a Signature Preferred, Student Card, Corporate Fleet, etc.). Each has a corresponding code.
 
 There are lots of really useful applications for this. You could use it to display a visual representation of the card, or to figure out who your corporate buyers are. 
 
