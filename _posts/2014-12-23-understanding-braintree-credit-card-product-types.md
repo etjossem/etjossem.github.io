@@ -8,7 +8,6 @@ modified: 2014-12-23
 
 Every time you retrieve a transaction in Braintree, you'll get a credit card object with the attribute `product_id`. It tends to be pretty cryptic and only a few characters long.
 
-```
     credit_card: {
         bin: "000000", 
         card_type: "Visa", 
@@ -18,7 +17,6 @@ Every time you retrieve a transaction in Braintree, you'll get a credit card obj
         debit: "Yes",
         product_id: "MPX"
     }
-```
 
 As of this post, `product_id` isn't described anywhere in the Braintree documentation, but it effectively tells you which credit product the customer is using (e.g. a classic Visa card vs. a Signature Preferred, Student Card, Corporate Fleet, etc.). Each has a corresponding code.
 
