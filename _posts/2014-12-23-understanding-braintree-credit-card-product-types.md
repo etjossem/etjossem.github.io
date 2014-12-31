@@ -6,11 +6,15 @@ category: articles
 modified: 2014-12-23
 ---
 
-Every time you retrieve a credit card object in Braintree, you'll get a value called `product_type`, which tends to be pretty cryptic and only a few characters long. Other payment gateways often return something similar. As of this post, `product_type` isn't described anywhere in the Braintree documentation, but it effectively tells you what credit product the customer is using (e.g. a classic Visa card vs. a Signature Preferred, Student Card, Corporate Fleet, etc.). 
+Every time you retrieve a credit card object in Braintree, you'll get a value called `product_type`, which tends to be pretty cryptic and only a few characters long. If you're using another payment gateway, you'll probably get something similar.
 
-There are lots of really useful applications for this. You could use it to display a visual representation of the card, or to figure out who your corporate buyers are. At [Chariot](https://www.chariotsf.com), we're interested in whether our users are using a flex benefits debit card (a.k.a. code J3, MPV, or MPX), since we want to know how often our users are taking advantage of their pre-tax transit benefits. Flex benefits issuers also tend to restrict purchasing based on merchant ID or merchant category code (to make sure you aren't buying up the bar with your transit benefits), so if an unusual number of failures are happening on MPX cards, we know we need to work with those issuers to make sure they know we're a transit provider.
+As of this post, `product_type` isn't described anywhere in the Braintree documentation, but it effectively tells you which credit product the customer is using (e.g. a classic Visa card vs. a Signature Preferred, Student Card, Corporate Fleet, etc.). Each has a corresponding code.
 
-I didn't see a full list available online, so I called up a couple of major payment processors and asked them for a description of each product code. This list will be updated if I see anything missing:
+There are lots of really useful applications for this. You could use it to display a visual representation of the card, or to figure out who your corporate buyers are. 
+
+At [Chariot](https://www.chariotsf.com), we're interested in whether our users are using a flex benefits prepaid debit card (any of the following codes: J3, MPV, or MPX), since this is the type of card issued by transit benefits administrators. This is a great data point if we want to know how often our users are taking advantage of their pre-tax transit benefits. Monitoring the use of flex benefits cards can also help with proactive customer service. Transit benefits issuers only approve purchases from merchant IDs or merchant category codes they recognize. So if an unusual number of failures are happening on MPX cards, we know we need to work with our customers' MasterCard Flex Benefits issuers to make sure they know we're a qualified transit provider.
+
+The only problem? The `product_type` codes are useless if you don't know what they mean. I didn't see a full list available online, so I called up a couple of major payment processors and asked them for a description of each product code. This list will be updated if I see anything missing:
 
 - **A** Visa Traditional
 - **AX1** American Express
@@ -24,7 +28,6 @@ I didn't see a full list available online, so I called up a couple of major paym
 - **G2** Visa Business Check Card
 - **G3** Visa Business Enhanced
 - **H** Visa Check Card
-- **Visa Debit** Visa Debit
 - **I** Reserved
 - **J** Reserved
 - **J1** Visa General Prepaid
@@ -194,3 +197,4 @@ I didn't see a full list available online, so I called up a couple of major paym
 - **TPB** MasterCard Preferred Business Card — Immediate Debit
 - **TPC** MasterCard Professional Card — Immediate Debit
 - **TPL** Platinum MasterCard — Immediate Debit
+- **VISA DEBIT** Visa Debit
