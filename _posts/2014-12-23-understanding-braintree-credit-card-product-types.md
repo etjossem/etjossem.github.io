@@ -20,7 +20,7 @@ Every time you retrieve a transaction in Braintree, you'll get a credit card obj
 
 As of this post, `product_id` isn't described anywhere in the Braintree documentation, but it effectively tells you which credit product the customer is using (e.g. a classic Visa card vs. a Signature Preferred, Student Card, Corporate Fleet, etc.). Each has a corresponding code.
 
-There are lots of really useful applications for this. You could use it to display a visual representation of the card, or to figure out who your corporate buyers are. 
+There are lots of really useful ways to apply this info. You could use the product id to display a visual representation of the customer's card, or to figure out who your corporate buyers are and target them differently from the marketing side.
 
 At [Chariot](https://www.chariotsf.com), we want to know which users tend to purchase with flex benefits debit cards. These cards are prepaid and refresh every month, and are valid for any transit-related expense. The percentage of transactions made with this type of card is a great data point for us, because it's a proxy for how often our riders are taking advantage of their pre-tax transit benefits. Knowing whether a card is flex benefits can also help us diagnose why a decline happened and provide better customer support. If a Chariot rider contacts us about a failed transaction, and the declined card was an MPX (employer-issued transit benefits), we'll give the customer a different set of advice than if they were trying to buy with a C (personal credit card).
 
