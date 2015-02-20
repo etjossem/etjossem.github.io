@@ -7,11 +7,13 @@
 
 ------
 
-Hi, I'm Eric! I love writing responsive and semantic front end code. I'm always keeping an eye on new Javascript libraries as they come out, and I make full use of preprocessors (like Sass and Haml) in my workflow. I have a strong preference for small, highly collaborative teams and a development culture that values the user experience.
+Hi, I'm Eric! I build applications that help people overcome problems. 
 
-A web application can't survive on code alone; even as a developer, I find myself building my own mockups for projects and considering interactions carefully from the perspective of the user. I look forward to putting my understanding of event flow, typography, and usability to use in my future roles.
+My recent work in Angular.js - paired with a Python-based API - has given me an incredible appreciation for the power of a single-page app framework, though I've got a soft spot for cleanly organized Ruby on Rails apps. I strongly prefer working with small, highly collaborative teams in a development culture that values the user experience above all else.
 
-Does this sound like a good fit? Email me at erictj@gmail.com or tweet @etjossem.
+A web application can't survive on code alone; even as a developer, I often find myself building my own mockups for projects and considering interactions carefully from the perspective of the customer. My understanding of event flow, typography, and usability served me well at Chariot, and I look forward to putting them to use in future roles.
+
+If you're interested in working with me, or just want to talk about your project, email me at erictj@gmail.com or tweet @etjossem.
 
 ------
 
