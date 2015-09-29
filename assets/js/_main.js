@@ -14,6 +14,10 @@ var navigation = responsiveNav("#site-nav", { // Selector: The ID of the wrapper
   close: function(){} // Function: Close callback
 });
 
+var host = "etjossem.github.io";
+if ((host == window.location.host) && (window.location.protocol != "https:"))
+    window.location.protocol = "https";
+
 $('html').click(function() {
   //Hide the menus if visible
   navigation.toggle();
