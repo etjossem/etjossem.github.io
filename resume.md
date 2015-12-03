@@ -74,4 +74,4 @@ If you're interested in working with me, or just want to talk about your project
 ### Education
 
 **Bachelor of Arts (Political Science)** __2008 to 2012__
-  Grinnell College, Grinnell, IA
+Grinnell College, Grinnell, IA
