@@ -13,8 +13,6 @@ modified: 2015-12-03
 > [erictj@gmail.com](mailto:erictj@gmail.com)
 > (641) 990-9591
 
-------
-
 Hi, I'm Eric! I build applications that help people overcome problems. 
 
 My recent work in Angular.js - paired with a Python-based API - has given me an incredible appreciation for the power of a single-page app framework, though I've got a soft spot for cleanly organized Ruby on Rails apps. I strongly prefer working with small, highly collaborative teams in a development culture that values the user experience above all else.
@@ -22,8 +20,6 @@ My recent work in Angular.js - paired with a Python-based API - has given me an 
 A web application can't survive on code alone; even as a developer, I often find myself building my own mockups for projects and considering interactions carefully from the perspective of the customer. My understanding of event flow, typography, and usability served me well at Chariot, and I look forward to putting them to use in future roles.
 
 If you're interested in working with me, or just want to talk about your project, email me at erictj@gmail.com or tweet @etjossem.
-
-------
 
 ### Tech
 
@@ -39,8 +35,6 @@ If you're interested in working with me, or just want to talk about your project
 1. MySQL / Postgres
 1. Deployment
 1. Versioning (Git)
-
-------
 
 ### Experience
 
@@ -76,8 +70,6 @@ If you're interested in working with me, or just want to talk about your project
   Set up a simulcast server to stream the station's audio content over the web.
   Developed a custom analytics solution for the streaming server to track listenership by program.
   **Web Stack**: WordPress, PHP, Icecast2, MySQL
-
-------
 
 ### Education
 
