@@ -1,3 +1,11 @@
+---
+layout: page
+permalink: /resume/
+title: Resume: Eric Tjossem
+tags: []
+modified: 2015-12-03
+---
+
 # Eric Tjossem
 ## Front End Developer with a passion for beautiful design
 
