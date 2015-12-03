@@ -7,7 +7,7 @@ modified: 2015-12-03
 ---
 
 # Eric Tjossem
-## Frontend developer with a passion for beautiful design
+*Frontend developer with a passion for beautiful design*
 
 > [tjosse.me](http://www.tjosse.me)
 > [erictj@gmail.com](mailto:erictj@gmail.com)
