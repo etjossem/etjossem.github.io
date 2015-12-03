@@ -89,5 +89,5 @@ If you're interested in working with me, or just want to talk about your project
 
 ### Education
 
-**Bachelor of Arts (Political Science)** at **Grinnell College** __2008 - 2012__
+**Bachelor of Arts (Political Science)** at *Grinnell College* __2008 - 2012__
 
