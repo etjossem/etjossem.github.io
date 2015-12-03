@@ -23,22 +23,18 @@ If you're interested in working with me, or just want to talk about your project
 
 ### Tech
 
-1. HTML / Haml
+1. HTML
 1. CSS / Sass
-1. JS / Coffee
-1. Ruby (Rails)
-1. Python (Django)
-1. PHP (CakePHP)
-1. jQuery
+1. Javascript
+1. Ruby
+1. Python
 1. Angular.js
 1. Backbone.js
-1. MySQL / Postgres
-1. Deployment
-1. Versioning (Git)
+1. MySQL
 
 ### Experience
 
-**Front End Engineer** at *SendGrid* • __2015__
+**Front End Engineer** at *SendGrid* • __2015 - Present__
   In July 2015, SendGrid purchased Message Bus and hired most of the core product team. I'm now the front-end specialist for SendGrid's web team, working on the customer dashboard. Fantastic company, would recommend.
 
   Web Stack: Backbone, Go, Python, Ruby, MySQL
