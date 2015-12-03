@@ -41,45 +41,51 @@ If you're interested in working with me, or just want to talk about your project
 **Front End Engineer** at *SendGrid* • __2015__
   In July 2015, SendGrid purchased Message Bus and hired most of the core product team. I'm now the front-end specialist for SendGrid's web team, working on the customer dashboard. Fantastic company, would recommend.
 
-  **Web Stack**: Backbone, Go, Python, Ruby, MySQL
+  Web Stack: Backbone, Go, Python, Ruby, MySQL
 
 **Lead Front End Developer** at *Message Bus* • __2015__
   Built an analytics and deliverability product to unite data from transactional/marketing email. The customers for Message Bus's transactional platform and core product team were acquired by SendGrid in Summer 2015.
-  **Web Stack**: Angular.js, Sass, Haml, Javascript, MySQL.
+
+  Web Stack: Angular.js, Sass, Haml, Javascript, MySQL
 
 **Lead Front End Developer** at *Chariot* • __2014 - 2015__
   • Led a small development team during the transition from monolithic RoR to Python API 
   • Developed a ticketing and check-in system for Chariot riders to track user patterns
   • Analyzed demographic and user-reported location data to inform new route placement
   • Designed, built, and released the customer-facing mobile app for iOS
-  • Directly contributed to acceptance into Y Combinator's Winter 2015 Batch and seed funding
-  **Web Stack**: Angular.js, Sass, Haml, Javascript, MySQL.
-  **Mobile Stack**: Hybrid Mobile - Angular.js via Cordova.
+  • Worked with founders on acceptance into Y Combinator Winter 2015 and seed funding
 
-**Software Developer** at *Rinse* • __December 2013 - 2014__
+  Web Stack: Angular.js, Sass, Haml, Javascript, MySQL
+  Mobile Stack: Hybrid Mobile - Angular.js via Cordova
+
+**Software Developer** at *Rinse* • __2013 - 2014__
   • Designed Backbone.js based mobile application in Trigger.io to improve on legacy app.
   • Led rework of main site (www.rinse.com) frontend, under mobile responsive grid system.
   • Created my own mockups for many new features, in collaboration with primary designer.
-  **Web Stack**: Django, Sass, Hamlpy, Javascript, PostgreSQL. 
-  **Mobile Stack**: Hybrid Mobile - Backbone.js via Trigger.io.
 
-**Software Engineer** at *ItsOn* • __20133__
+  Web Stack: Django, Sass, Hamlpy, Javascript, PostgreSQL
+  Mobile Stack: Hybrid Mobile - Backbone.js via Trigger.io
+
+**Software Engineer** at *ItsOn* • __2013__
   • Built internal tools for the development and quality assurance teams.
   • Created detailed documentation on tools and development processes.
   • Provided constant communication and iteration in an Agile/Scrum environment.
-  **Web Stack**: Drupal, PHP, Javascript, MySQL.
+
+  Web Stack: PHP, Javascript, MySQL
 
 **Front End Developer** at *Goodsmiths* • __2012 - 2013__
   • Built the user interface for bulk editing listings, available to premium customers.
   • Created a reusable template for gift guides (Christmas, Valentine's, Mother's Day, etc).
   • Designed the Group Offers page, featuring fully mobile-responsive image tiles.
-  **Web Stack**: Ruby on Rails, Sass, Haml, Javascript, MySQL.
+
+  Web Stack: Ruby on Rails, Sass, Haml, Javascript, MySQL
 
 **Systems Administrator** at *KDIC 88.5 FM* • __2009 - 2012__
   • Designed and built a custom blog for the station (http://kdic.grinnell.edu/).
   • Set up a simulcast server to stream the station's audio content over the web.
   • Developed a custom analytics solution for the streaming server to track listenership by program.
-  **Web Stack**: WordPress, PHP, Icecast2, MySQL
+
+  Web Stack: WordPress, PHP, Icecast2, MySQL
 
 ### Education
 
