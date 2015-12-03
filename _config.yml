@@ -39,8 +39,8 @@ links:
     url: /about/
   - title: Articles
     url: /articles/
-  - title: Résumé
-    url: /resume.pdf
+  - title: Resume
+    url: /resume/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/San_Diego
