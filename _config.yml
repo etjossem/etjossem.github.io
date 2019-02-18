@@ -4,7 +4,7 @@ logo:             etjossem.png
 disqus_shortname: 
 search:           false
 # Change url to your domain. Leave localhost server or blank when working locally.
-url: https://etjossem.github.io
+url: http://www.tjosse.me/
 
 # Owner/author information
 owner:
@@ -13,19 +13,15 @@ owner:
   email:          eric@tjossem.org
   # Social networking links used in footer. Update and remove as you like.
   twitter:        etjossem
-  facebook:       
   github:         etjossem
-  stackexchange:  http://careers.stackoverflow.com/erictj
-  linkedin:       etjossem
-  instagram:      
-  flickr:         
-  tumblr:         
+  stackexchange:  https://stackoverflow.com/users/1601531/eric-tjossem
+  linkedin:       etjossem         
   angellist:      etjossem
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    https://www.google.com/+EricTjossem
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
+google_analytics:   UA-134636352-1
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
