@@ -4,7 +4,13 @@ title: Latest Posts
 description: "Thoughts on design and development for mobile web."
 tags: [Jekyll, theme, themes, responsive, blog, minimalism]
 ---
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-7172938361176161",
+    enable_page_level_ads: true
+  });
+</script>
 <ul class="post-list">
 {% for post in site.posts limit:10 %} 
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
